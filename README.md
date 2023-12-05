@@ -1,4 +1,4 @@
-# Web_AnimalShelter
+# teamproject_animalcare
 
 스프링부트 + JPA
 
